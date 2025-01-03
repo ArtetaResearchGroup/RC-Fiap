@@ -9,7 +9,6 @@ Installation instructions
  5. Using your preferred IDE(PyCharm, Spyder) open the RC_FIAP_main.py file
 
 ## References
-For the list of references used in the development and documentation of RC-FIAP, please visit:  
-[References](https://github.com/ArtetaResearchGroup/RC-Fiap/blob/main/References.md)
+For the list of references used in the development and documentation of RC-FIAP, please visit:  [References](https://github.com/ArtetaResearchGroup/RC-Fiap/blob/main/References.md)
 
 Contact vceballos@uninorte.edu.co for further assistance, or if you need to perform IDA or Conditional Scenario Spectra (CSS) type of analyses.
