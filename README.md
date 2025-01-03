@@ -5,11 +5,11 @@ Installation instructions
  1. Install Python3 ([Anaconda](https://www.anaconda.com) Recommended)
  2. Install [Openseespy](https://openseespydoc.readthedocs.io/en/latest/src/installation.html) 
  3. Install Pyqt using the Anaconda prompt : conda install -c anaconda pyqt or using pip install pyqt
- 4. Clone or download the [RC-FIAP repository](https://github.com/vfceball/RC-FIAP)  
+ 4. Clone or download the [RC-FIAP repository](https://github.com/ArtetaResearchGroup/RC-Fiap/)  
  5. Using your preferred IDE(PyCharm, Spyder) open the RC_FIAP_main.py file
 
 ## References
 For the list of references used in the development and documentation of RC-FIAP, please visit:  
-[https://github.com/ArtetaResearchGroup/RC-Fiap/blob/main/References.md](https://github.com/ArtetaResearchGroup/RC-Fiap/blob/main/References.md)
+[References](https://github.com/ArtetaResearchGroup/RC-Fiap/blob/main/References.md)
 
 Contact vceballos@uninorte.edu.co for further assistance, or if you need to perform IDA or Conditional Scenario Spectra (CSS) type of analyses.
