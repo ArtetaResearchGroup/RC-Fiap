@@ -1,0 +1,26 @@
+a/RSN95_MANAGUA_A-ESO090.AT2      	0.30
+a/RSN126_GAZLI_GAZ000.AT2         	0.50
+a/RSN139_TABAS_DAY-L1.AT2         	0.80
+a/RSN126_GAZLI_GAZ000.AT2         	0.55
+a/RSN161_IMPVALL-H_H-BRA225.AT2    	2.50
+a/RSN284_ITALY_A-AUL000.AT2         	2.54
+a/RSN266_VICT_CHI102.AT2   		1.25
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
